@@ -8,12 +8,17 @@
 ```
 flask
 ├──static
-|	├──index.js
-|	└──cg-module.js
+|	├──cg-module.js
+|	├──workshop01.js
+|	├──workshop02.js
+|	└──workshop03.js
 ├──templates
-|	├──demo.html
-|	└──index.html
-└──app.py
+|	├──index.html
+|	├──workshop01.html
+|	├──workshop02.html
+|	└──workshop03.html
+├──app.py
+└──imgcvt.py
 ```
 ### Workshops
 ### Workshop01 - Image Transfer
